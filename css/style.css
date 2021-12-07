@@ -87,7 +87,7 @@ ul,li {
 
  .title-text {
      font-size: 12rem;
-     font-family: "Myriad Pro";
+     font-family: 'Myriad Pro', sans-serif;
      font-weight: lighter;
      color: #fff;
      position: absolute;
@@ -469,7 +469,7 @@ body {
 
 .title-text {
     font-size: 7rem;
-    font-family: "Myriad Pro";
+    font-family: 'Myriad Pro', sans-serif;
     font-weight: lighter;
     color: #fff;
     position: absolute;
